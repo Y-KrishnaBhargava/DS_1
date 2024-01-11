@@ -474,7 +474,7 @@ The execution time of your code is: 0.000360 seconds
 
 NOTE: The Case number is kept '9' as it is. This is done to avoid any confusion since its value does not have any negative impact on the desired output of the program.
 
-Time Complexity calculation Caode is added to the 'main'
+Time Complexity calculation Code is added to the 'main'
 
 
 */
