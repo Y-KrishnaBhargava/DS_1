@@ -112,6 +112,6 @@ Now, If you’re asked to do d rotations, you don’t have to do all d of them. 
 
 Why? Because doing d rotations ends up being the same as doing d mod n rotations. It’s like if you have 5 friends and you’re asked to rotate them 14 times, you only need to rotate 4 times (because 14 mod 5 equals 4).
 
-This shortcut can save you a ton of time, especially when d is a lot bigger than n. In the code you showed me, that’s exactly what d %= n; is doing. It’s figuring out the shortcut. So the rest of the code only does the reduced number of rotations. That’s how using modulus can make the code more efficient. Pretty neat, huh?
+This shortcut can save you a ton of time, especially when d is a lot bigger than n. In thIS code , that’s exactly what d %= n; is doing. It’s figuring out the shortcut. So the rest of the code only does the reduced number of rotations. That’s how using modulus can make the code more efficient. 
 
 */
